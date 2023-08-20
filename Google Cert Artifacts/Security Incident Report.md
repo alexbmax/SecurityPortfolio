@@ -1,11 +1,15 @@
 # Security Incident Report #
+Date:
+Analyst:
+Severity:
 
+# Summary of Incident #
+
+Blah Blah
 
 # Section 1: Identify the network protocol involved in the incident #
+
 HTTP protocol and DNS protocol 
-
-
-
 
 
 # Section 2: Document the incident #
